@@ -1,0 +1,3 @@
+﻿  main08.cpp
+C:\Users\a0104\OneDrive\바탕 화면\cppgithub\myfirstcppexam\Day1\Day2\Day2\main08.cpp(6,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+  Day2.vcxproj -> C:\Users\a0104\OneDrive\바탕 화면\cppgithub\myfirstcppexam\Day1\Day2\x64\Debug\Day2.exe
