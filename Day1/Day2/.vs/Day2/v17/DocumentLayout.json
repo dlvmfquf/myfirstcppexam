@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main08.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CA75E760-303D-4DC3-B90B-CAC9A62087F9}|Day2\\Day2.vcxproj|solutionrelative:Day2\\main06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,13 +50,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main08.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main08.cpp",
               "RelativeDocumentMoniker": "Day2\\main08.cpp",
               "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main08.cpp",
               "RelativeToolTip": "Day2\\main08.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-12T12:40:29.445Z",
               "EditorCaption": ""
@@ -69,40 +69,40 @@
               "RelativeDocumentMoniker": "Day2\\main07.cpp",
               "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main07.cpp",
               "RelativeToolTip": "Day2\\main07.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-12T12:06:30.724Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "main06.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main06.cpp",
               "RelativeDocumentMoniker": "Day2\\main06.cpp",
               "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main06.cpp",
               "RelativeToolTip": "Day2\\main06.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAACAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-12T11:58:52.658Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "main05.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main05.cpp",
               "RelativeDocumentMoniker": "Day2\\main05.cpp",
               "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main05.cpp",
               "RelativeToolTip": "Day2\\main05.cpp",
-              "ViewState": "AQIAABQAAAAAAAAAAAAmwB4AAAAbAAAA",
+              "ViewState": "AQIAACAAAAAAAAAAAAAmwB4AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-08-12T11:32:42.646Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main04.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main04.cpp",
               "RelativeDocumentMoniker": "Day2\\main04.cpp",
@@ -110,12 +110,11 @@
               "RelativeToolTip": "Day2\\main04.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T11:13:44.943Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T11:13:44.943Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "main03.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main03.cpp",
               "RelativeDocumentMoniker": "Day2\\main03.cpp",
@@ -123,12 +122,11 @@
               "RelativeToolTip": "Day2\\main03.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T11:03:05.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T11:03:05.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main02.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main02.cpp",
               "RelativeDocumentMoniker": "Day2\\main02.cpp",
@@ -136,12 +134,11 @@
               "RelativeToolTip": "Day2\\main02.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T10:26:48.908Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T10:26:48.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "main01.cpp",
               "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day1\\Day2\\Day2\\main01.cpp",
               "RelativeDocumentMoniker": "Day2\\main01.cpp",
@@ -149,8 +146,7 @@
               "RelativeToolTip": "Day2\\main01.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-08-12T10:08:29.528Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-12T10:08:29.528Z"
             }
           ]
         }
