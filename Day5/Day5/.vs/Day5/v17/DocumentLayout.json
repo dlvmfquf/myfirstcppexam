@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main07.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main06.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main04.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main03.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1A42D311-DE11-4628-9F16-4A22AA090450}|Day5\\Day5.vcxproj|solutionrelative:Day5\\main01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main07.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main07.cpp",
+              "RelativeDocumentMoniker": "Day5\\main07.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main07.cpp",
+              "RelativeToolTip": "Day5\\main07.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-23T06:19:30.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main06.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main06.cpp",
+              "RelativeDocumentMoniker": "Day5\\main06.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main06.cpp",
+              "RelativeToolTip": "Day5\\main06.cpp",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAgwGoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T11:57:58.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main05.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main05.cpp",
+              "RelativeDocumentMoniker": "Day5\\main05.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main05.cpp",
+              "RelativeToolTip": "Day5\\main05.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T12:16:45.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "main04.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main04.cpp",
+              "RelativeDocumentMoniker": "Day5\\main04.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main04.cpp",
+              "RelativeToolTip": "Day5\\main04.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T11:46:21.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main03.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main03.cpp",
+              "RelativeDocumentMoniker": "Day5\\main03.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main03.cpp",
+              "RelativeToolTip": "Day5\\main03.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwDwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T11:09:15.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "main02.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main02.cpp",
+              "RelativeDocumentMoniker": "Day5\\main02.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main02.cpp",
+              "RelativeToolTip": "Day5\\main02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T10:15:12.691Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "main01.cpp",
+              "DocumentMoniker": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main01.cpp",
+              "RelativeDocumentMoniker": "Day5\\main01.cpp",
+              "ToolTip": "C:\\Users\\a0104\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\cppgithub\\myfirstcppexam\\Day5\\Day5\\Day5\\main01.cpp",
+              "RelativeToolTip": "Day5\\main01.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-21T10:14:02.181Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
