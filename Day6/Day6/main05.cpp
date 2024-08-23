@@ -544,12 +544,11 @@ void main()
 				cout << "아쉽습니다. 패배하셨습니다." << endl;
 				isGamePlaying = false;
 			}
-			else if (comBingoCount >= 3 && myBingoCount >= 3)
+			else if ((comBingoCount >= 3 && myBingoCount >= 3) && (comBingoCount == myBingoCount))
 			{
 				cout << "오.. 비겼습니다." << endl;
 				isGamePlaying = false;
 			}
 		}
 	}
-
 }
