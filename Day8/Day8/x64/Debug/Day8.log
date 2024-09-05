@@ -1,5 +1,9 @@
-﻿  quiz02.cpp
-C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz02.cpp(24,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
-C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz02.cpp(74,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
-C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz02.cpp(74,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+﻿  quiz03.cpp
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(43,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(44,19): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(45,19): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(110,24): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(111,24): warning C4244: '초기화 중': 'ULONGLONG'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(202,16): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\quiz03.cpp(202,19): warning C4838: 'int'에서 'SHORT'(으)로의 변환에는 축소 변환이 필요합니다.
   Day8.vcxproj -> C:\Users\손현승\Documents\GitHub\myfirstcppexam\Day8\x64\Debug\Day8.exe
