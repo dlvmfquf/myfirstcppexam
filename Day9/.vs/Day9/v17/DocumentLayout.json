@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\Quiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\quiz02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\quiz02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\Quiz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\Quiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\mainQuiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\mainQuiz01.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\MainGame.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\main05.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\MainGame.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B13943CF-EA95-4018-BF8E-73DF18F7C9AE}|Day9\\Day9.vcxproj|solutionrelative:Day9\\Quiz.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -37,6 +41,23 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quiz02.cpp",
+              "DocumentMoniker": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\quiz02.cpp",
+              "RelativeDocumentMoniker": "Day9\\quiz02.cpp",
+              "ToolTip": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\quiz02.cpp",
+              "RelativeToolTip": "Day9\\quiz02.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T08:30:14.205Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "mainQuiz01.cpp",
@@ -44,44 +65,40 @@
               "RelativeDocumentMoniker": "Day9\\mainQuiz01.cpp",
               "ToolTip": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\mainQuiz01.cpp",
               "RelativeToolTip": "Day9\\mainQuiz01.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T12:24:08.282Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Quiz01.cpp",
               "DocumentMoniker": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz01.cpp",
               "RelativeDocumentMoniker": "Day9\\Quiz01.cpp",
               "ToolTip": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz01.cpp",
               "RelativeToolTip": "Day9\\Quiz01.cpp",
-              "ViewState": "AQIAAL0CAAAAAAAAAAAAAJgCAAAvAAAA",
+              "ViewState": "AQIAAN0CAAAAAAAAAAAAAPMCAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T11:27:24.273Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Quiz.h",
               "DocumentMoniker": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz.h",
               "RelativeDocumentMoniker": "Day9\\Quiz.h",
               "ToolTip": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\Quiz.h",
               "RelativeToolTip": "Day9\\Quiz.h",
-              "ViewState": "AQIAACsAAAAAAAAAAAAuwDEAAAASAAAA",
+              "ViewState": "AQIAAFUAAAAAAAAAAAAuwGcAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T12:13:42.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "main05.cpp",
               "DocumentMoniker": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\main05.cpp",
               "RelativeDocumentMoniker": "Day9\\main05.cpp",
@@ -100,20 +117,20 @@
               "RelativeDocumentMoniker": "Day9\\MainGame.h",
               "ToolTip": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\MainGame.h",
               "RelativeToolTip": "Day9\\MainGame.h",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-07T11:25:13.985Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "MainGame.cpp",
               "DocumentMoniker": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\MainGame.cpp",
               "RelativeDocumentMoniker": "Day9\\MainGame.cpp",
               "ToolTip": "C:\\Users\\\uC190\uD604\uC2B9\\Documents\\GitHub\\myfirstcppexam\\Day9\\Day9\\MainGame.cpp",
               "RelativeToolTip": "Day9\\MainGame.cpp",
-              "ViewState": "AQIAAJwAAAAAAAAAAAAUwK8AAAAgAAAA",
+              "ViewState": "AQIAALkAAAAAAAAAAAAAAMwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-07T11:25:03.52Z",
               "EditorCaption": ""

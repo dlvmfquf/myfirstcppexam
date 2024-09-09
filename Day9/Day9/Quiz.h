@@ -100,8 +100,8 @@ public:
 	//돈 지급
 	void GiveMoney();
 
-	//리셋
-	void ReSet();
+	//행동리셋
+	void ReSetAct();
 
 	//계속할건지 말건지
 	void Continue();

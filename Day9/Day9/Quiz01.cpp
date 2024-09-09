@@ -149,6 +149,7 @@ void MainQuizGame::RunGame()
 
 		ShowMoney();
 
+		ReSetAct();
 		PrintResult();
 		Continue();
 	}
@@ -366,6 +367,11 @@ void MainQuizGame::Die()
 		comBettingMoney = 0;
 		betMoney = 0;
 	}
+	else if (playerAct == 1 && comAct == 1)
+	{
+		isGamePlaying = false;
+	}
+
 	ChangeTurn();
 }
 
@@ -653,6 +659,10 @@ void MainQuizGame::ActCom()
 	default:
 		break;
 	}
+	if (playerAct == 1 && comAct == 1)
+	{
+		isGamePlaying = false;
+	}
 }
 
 void MainQuizGame::GiveMoney()
@@ -683,21 +693,10 @@ void MainQuizGame::GiveMoney()
 	}
 }
 
-void MainQuizGame::ReSet()
+void MainQuizGame::ReSetAct()
 {
-	index = 0;
-	playerMoney = 10000;
-	comMoney = 10000;
-	betMoney = 0;
-	playerBettingMoney = 0;
-	comBettingMoney = 0;
-	playerTurn = 1;
-	comTurn = 0;
 	comAct = 0;
 	playerAct = 0;
-	playerScore = 0;
-	comScore = 0;
-	playerWin = 0;
 }
 
 void MainQuizGame::PrintResult()
